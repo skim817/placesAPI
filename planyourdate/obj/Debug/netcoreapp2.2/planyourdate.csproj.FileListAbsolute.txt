@@ -1,0 +1,14 @@
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\bin\Debug\netcoreapp2.2\planyourdate.deps.json
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\bin\Debug\netcoreapp2.2\planyourdate.runtimeconfig.json
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\bin\Debug\netcoreapp2.2\planyourdate.runtimeconfig.dev.json
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\bin\Debug\netcoreapp2.2\planyourdate.dll
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\bin\Debug\netcoreapp2.2\planyourdate.pdb
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.csprojAssemblyReference.cache
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.csproj.CoreCompileInputs.cache
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.RazorAssemblyInfo.cache
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.RazorAssemblyInfo.cs
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.AssemblyInfoInputs.cache
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.AssemblyInfo.cs
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.RazorTargetAssemblyInfo.cache
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.dll
+C:\Users\kimsm\source\repos\planyourdate\planyourdate\obj\Debug\netcoreapp2.2\planyourdate.pdb
